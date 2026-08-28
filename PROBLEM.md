@@ -55,11 +55,11 @@
 > Three DISTINCT problem statements for the same situation. The test: a reader should
 > not be able to swap two of them without changing what would get built.
 
-**Framing A (the obvious one):**
+**Framing A (the obvious one): A problem that I face is imposter syndrome.**
 
-**Framing B (stakeholder shift):**
+**Framing B (stakeholder shift): My self-doubt can prevent my professors, managers, and friends from witnessing my full capabilities because I present or vocalize more of my shortcomings than the strengths I bring to these settings.**
 
-**Framing C (goal shift):**
+**Framing C (goal shift): I struggle to maintain confidence when new situations arise or my environment changes, which require different expectations.**
 
 ---
 
