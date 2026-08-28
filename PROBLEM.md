@@ -40,12 +40,12 @@
 >
 > "This is actually a tame problem" is a valid verdict when the reasoning is sound.
 
-+ No Stopping Rule: Imposter Syndrome never stops; it might diminish in one area, but it resurfaces in other places. For example, I have now been a member of the Scheller Business Ambassadors since freshman year and have held 2 executive positions. When I had to give tours the first couple semesters in SBA, I felt like a fraud because I didn't have internship experience, I had only taken 2 Scheller classes, and SBA was one of very few organizations I was involved in. As a senior, I no longer feel like an imposter in SBA, but now this syndrome rears its head socially with my roommates. They are all involved in a sorority and have many other friends, while I am much less involved socially.
-+ Symptom of Another Problem: The imposter syndrome can be attributed to many factors: internally, it could be the result of comparison, anxiety, or perfectionism, or externally, it could be the lack of a support system, a competitive environment, or toxic conversation diminishing your self-worth.
-+ Solutions are Good/Bad rather than True/False: There is no one "true" solution for imposter syndrome. A quick google search suggests journaling (especially writing down the "wins" that  occurred that day), rewarding successes, faking it until you make it, focusing on facts over feelings, changing your external environment, and more. These might work situationally or idiosyncratically but cannot be treated as a blanket approach that will truly work.
-+ Solutions lack opportunity to learn by trial and error: For many of the solutions previously mentioned, there is no way to test their effectiveness without experiencing the full consequences. For example, if I were to change classes or jobs, there is no practical way to "test" the adequacy of the next environment without fully making the transition. Although I could experiment with other strategies like journaling and reducing perfectionism, there is no controlled opportunity to determine if these solutions would actually resolve my problem because my emotions are constantly influenced by a changing environment and circumstances.
++ **No stopping rule:** it might diminish in one area, but it resurfaces in other places. For example, I have now been a member of the Scheller Business Ambassadors since freshman year and have held 2 executive positions. When I had to give tours the first couple semesters in SBA, I felt like a fraud because I didn't have internship experience, I had only taken 2 Scheller classes, and SBA was one of very few organizations I was involved in. As a senior, I no longer feel like an imposter in SBA, but now this syndrome rears its head socially with my roommates. They are all involved in a sorority and have many other friends, while I am much less involved socially.
++ **Symptom of another problem:** The imposter syndrome can be attributed to many factors: internally, it could be the result of comparison, anxiety, or perfectionism, or externally, it could be the lack of a support system, a competitive environment, or toxic conversation diminishing your self-worth.
++ **Solutions are good/bad rather than true/false:** There is no one "true" solution for imposter syndrome. A quick google search suggests journaling (especially writing down the "wins" that  occurred that day), rewarding successes, faking it until you make it, focusing on facts over feelings, changing your external environment, and more. These might work situationally or idiosyncratically but cannot be treated as a blanket approach that will truly work.
++ **Solutions lack opportunity to learn by trial and error:** For many of the solutions previously mentioned, there is no way to test their effectiveness without experiencing the full consequences. For example, if I were to change classes or jobs, there is no practical way to "test" the adequacy of the next environment without fully making the transition. Although I could experiment with other strategies like journaling and reducing perfectionism, there is no controlled opportunity to determine if these solutions would actually resolve my problem because my emotions are constantly influenced by a changing environment and circumstances.
 
-**Verdict: This is a wicked problem.**
+**Verdict:** This is a wicked problem.
 
 ---
 
@@ -55,11 +55,11 @@
 > Three DISTINCT problem statements for the same situation. The test: a reader should
 > not be able to swap two of them without changing what would get built.
 
-**Framing A (the obvious one): A problem that I face is imposter syndrome.**
+**Framing A (the obvious one):** A problem that I face is imposter syndrome.
 
-**Framing B (stakeholder shift): My self-doubt can prevent my professors, managers, and friends from witnessing my full capabilities because I present or vocalize more of my shortcomings than the strengths I bring to these settings.**
+**Framing B (stakeholder shift):** My self-doubt can prevent my professors, managers, and friends from witnessing my full capabilities because I present or vocalize more of my shortcomings than the strengths I bring to these settings.
 
-**Framing C (goal shift): I struggle to maintain confidence when new situations arise or my environment changes, which require different expectations.**
+**Framing C (goal shift):** I struggle to maintain confidence when new situations arise or my environment changes, which require different expectations.
 
 ---
 
@@ -69,11 +69,11 @@
 > Pick one framing. Defend it in a short paragraph. Then name what your choice makes
 > invisible. Every framing forecloses something.
 
-**Chosen framing: Framing B**
+**Chosen framing:** Framing B
 
-**Why: Framing B explicates how self-doubt not only affects my internal perception of myself, but also the way those around me perceive me. My self-doubt might make me feel less than, but it also has external consequences and causes others to underestimate me.**
+**Why:** Framing B explicates how self-doubt not only affects my internal perception of myself, but also the way those around me perceive me. My self-doubt might make me feel less than, but it also has external consequences and causes others to underestimate me.
 
-**What this framing makes invisible: Focusing on the external effects this emotion can have makes the internal emotional battle (arguably the root problem) "invisible" and instead focuses on solutions that would change other people's perception of me.**
+**What this framing makes invisible:** Focusing on the external effects this emotion can have makes the internal emotional battle (arguably the root problem) "invisible" and instead focuses on solutions that would change other people's perception of me.
 
 ---
 
@@ -83,9 +83,9 @@
 > You already assumed a tool. Everyone does. Name it honestly, then state what would
 > have to be true about your problem for that tool to be the justified choice.
 
-**The tool I already assumed:**
+**The tool I already assumed:** Daily Affirmations.
 
-**What would have to be true for it to be justified:**
+**What would have to be true for it to be justified:** If my feeling of imposter syndrome is the result of negative self-perceptions and regularly reinforcing positive beliefs has the ability to change how I perceive myself and how I present my capabilities to others, then this solution would be justified.**
 
 ---
 
@@ -95,7 +95,7 @@
 > Two sentences. What would "good enough for now" look like, and how would you know
 > you had reached it? (Worth 10 points. Do not skip this one.)
 
-*(your sketch here)*
+*For me, “Good enough for now” would mean feeling confident enough in my abilities to speak up in work meetings, pursue difficult opportunities, and talk to people I believe are "cooler" than me without constantly questioning whether I belong. I would recognize that I had reached this point when I could recognize how I can be an asset and no longer let comparisons or self-doubt cycles prevent me from taking action.*
 
 ---
 
