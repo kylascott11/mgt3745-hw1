@@ -69,11 +69,11 @@
 > Pick one framing. Defend it in a short paragraph. Then name what your choice makes
 > invisible. Every framing forecloses something.
 
-**Chosen framing:**
+**Chosen framing: Framing B**
 
-**Why:**
+**Why: Framing B explicates how self-doubt not only affects my internal perception of myself, but also the way those around me perceive me. My self-doubt might make me feel less than, but it also has external consequences and causes others to underestimate me.**
 
-**What this framing makes invisible:**
+**What this framing makes invisible: Focusing on the external effects this emotion can have makes the internal emotional battle (arguably the root problem) "invisible" and instead focuses on solutions that would change other people's perception of me.**
 
 ---
 
