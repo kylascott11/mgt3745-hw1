@@ -1,7 +1,7 @@
 # HW1: Reframing a Wicked Problem
 
-**Name:**
-**Date:**
+**Name:** Kyla Scott
+**Date:** 8/28/2026
 
 > Replace every instruction block below with your own writing. Delete the instructions as you go.
 > Target length: about 700 words total. No code required. Worth 100 points.
@@ -22,7 +22,7 @@
 > Two sentences. One problem from your own experience: your major, a job, a campus
 > process, a family business, a team. Pick something you actually care about.
 
-*(your problem here)*
+*A problem that I face frequently, professionally and personally, is the imposter syndrome. As soon as I feel like I fit in and deserve to be somewhere, I meet someone who has their life more together or is more personable, I have a new boss with different expectations, I'm taking new classes with professors who don't know me yet, and so on and so forth.*
 
 ---
 
