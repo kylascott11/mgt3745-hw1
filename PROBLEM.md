@@ -85,7 +85,7 @@
 
 **The tool I already assumed:** Daily Affirmations.
 
-**What would have to be true for it to be justified:** If my feeling of imposter syndrome is the result of negative self-perceptions and regularly reinforcing positive beliefs has the ability to change how I perceive myself and how I present my capabilities to others, then this solution would be justified.**
+**What would have to be true for it to be justified:** If my feeling of imposter syndrome is the result of negative self-perceptions and regularly reinforcing positive beliefs has the ability to change how I perceive myself and how I present my capabilities to others, then this solution would be justified.
 
 ---
 
@@ -104,4 +104,4 @@
 > One or two sentences: what you used AI for on this assignment, if anything.
 > Write "none" if you did not use any.
 
-*(your note here)*
+*I used AI to see how defensible my "Solutions lack opportunity to learn by trial and error:" bullet because I felt like this is true for some solutions, while not so much for others. Additionally, I used AI when trying to ideate different stakeholders affected by my imposter syndrome for Framing situation B.*
