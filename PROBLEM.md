@@ -22,7 +22,7 @@
 > Two sentences. One problem from your own experience: your major, a job, a campus
 > process, a family business, a team. Pick something you actually care about.
 
-*A problem that I face frequently, professionally and personally, is the imposter syndrome. As soon as I feel like I fit in and deserve to be somewhere, I meet someone who has their life more together or is more personable, I have a new boss with different expectations, I'm taking new classes with professors who don't know me yet, and so on and so forth.*
+*A problem that I face frequently, professionally and personally, is the imposter syndrome. As soon as I feel like I fit in and deserve to be somewhere, I compare myself to someone who has their life more together or is more personable, I have a new boss with different expectations, or I'm taking new classes with professors who don't know me yet, challenging my confidence.*
 
 ---
 
@@ -40,7 +40,10 @@
 >
 > "This is actually a tame problem" is a valid verdict when the reasoning is sound.
 
-*(your analysis here)*
+*No Stopping Rule: Imposter Syndrome never stops; it might diminish in one area of my life, but it resurfaces in other areas of my life. For example, I have now been a member of the Scheller Business Ambassadors since freshman year and have held 2 executive positions. When I had to give tours the first couple semesters in SBA, I felt like a fraud because I didn't have internship experience, I had only taken 2 Scheller classes, and SBA was one of very few organizations I was involved in. As a senior, I no longer feel like an imposter in SBA, but now this syndrome rears its head socially with my roommates. They are all involved in a sorority and have many other friends, while I am much less involved socially.
+Could be Symptom of Another Problem: The imposter syndrome can be attributed to many factors: internally, it could be the result of comparison, anxiety, or perfectionism, or externally, it could be the lack of a support system, a competitive environment, or toxic conversation diminishing your self-worth.
+Solutions are Good/Bad rather than True/False:
+*
 
 **Verdict:**
 
