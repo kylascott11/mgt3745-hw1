@@ -16,7 +16,7 @@
 + **No stopping rule:** *Imposter Syndrome might diminish in one area but will resurfaces elsewhere. For example, I have been a member of the Scheller Business Ambassadors since freshman year and have held 2 executive positions. The first few tours I had to give in SBA, I was not confident in my abilities because I didn't have internship experience, had only taken 2 Scheller classes, and was involved in few organizations. As a senior, I no longer feel like an imposter in SBA, but now this syndrome rears its head socially with my roommates. They are all involved in a sorority and have many other friends, while I am much less involved socially.*
 + **Symptom of another problem:** *The imposter syndrome can be attributed to many factors: internally, it could be the result of comparison, anxiety, or perfectionism, while externally, it could be the lack of a support system, a competitive environment, or toxic conversations.*
 + **Solutions are good/bad rather than true/false:** *There is no one "true" solution for imposter syndrome. A quick google search suggests journaling (especially writing down the "wins" that occurred that day), rewarding successes, faking it until you make it, focusing on facts over feelings, changing your external environment, and more. These might work situationally or idiosyncratically but cannot be treated as a blanket approach that will truly work.*
-+ **Solutions lack opportunity to learn by trial and error:** *Many of the solutions previously mentioned lack a method to test their effectiveness without experiencing the full consequences. For example, if I changed classes or jobs, there is no practical way to "test" the adequacy of the next environment without fully making the transition. Although I could experiment with other strategies like journaling or reducing perfectionism, the problem itself does not allow for a way to test the effectiveness of the strategy because the stakes and circumstances are dynamic.*
++ **Solutions lack opportunity to learn by trial and error:** *Many of the solutions previously mentioned lack a method to test their effectiveness without experiencing the full consequences. For example, if I changed classes or jobs, there is no practical way to "test" the adequacy of the next environment without fully making the transition. Although I could experiment with other strategies like journaling or reducing perfectionism, the problem itself does not allow for a reliable way to test the effectiveness of the strategy because the stakes and circumstances are dynamic.*
 
 **Verdict:** *This is a wicked problem.*
 
@@ -46,13 +46,13 @@
 
 **The tool I already assumed:** *Studying Plan*
 
-**What would have to be true for it to be justified:** *For a studying plan to be a valid tool, my underperformance would have to be objectionably measurable and not my interpretation of my abilities. Additionally, this underperformance would have to be the result of a lack of knowledge or under-preparation, rather than other factors like lack of sleep. While I know that I do well with structure, another assumption is that adding a structured plan to my studies would actually be beneficial. If these conditions are true, then creating a structured study plan could improve my performance to the level of those around me.*
+**What would have to be true for it to be justified:** *For a studying plan to be a valid tool, my underperformance would have to be objectively measurable and not my interpretation of my abilities. Additionally, this underperformance would have to be the result of a lack of knowledge or under-preparation, rather than other factors like lack of sleep. While I know that I do well with structure, another assumption is that adding a structured plan to my studies would actually be beneficial. If these conditions are true, then creating a structured study plan could improve my performance to the level of those around me.*
 
 ---
 
 ## 6. Adequacy Sketch  
 
-*For me, “Good enough for now” would mean performing average or above-average compared to peers in the operating environment. In a school environment, for example, I would know I hit this point if my grades and valuable contributions in class were at or above the average of my peers, while requiring no disproportionate amount of preparation to achieve those results.*
+*For me, “Good enough for now” would mean performing at or above average compared to peers in the operating environment. In a school environment, for example, I would know I hit this point if my grades and valuable contributions in class were at or above the average of my peers, while requiring no disproportionate amount of preparation to achieve those results.*
 
 ---
 
