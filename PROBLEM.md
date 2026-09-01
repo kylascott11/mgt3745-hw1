@@ -18,7 +18,7 @@
 + **Solutions are good/bad rather than true/false:** *There is no one "true" solution for imposter syndrome. A quick google search suggests journaling (especially writing down the "wins" that occurred that day), rewarding successes, faking it until you make it, focusing on facts over feelings, changing your external environment, and more. These might work situationally or idiosyncratically but cannot be treated as a blanket approach that will truly work.*
 + **Solutions lack opportunity to learn by trial and error:** *Many of the solutions previously mentioned lack a method to test their effectiveness without experiencing the full consequences. For example, if I changed classes or jobs, there is no practical way to "test" the adequacy of the next environment without fully making the transition. Although I could experiment with other strategies like journaling or reducing perfectionism, the problem itself does not allow for a way to test the effectiveness of the strategy because the stakes and circumstances are dynamic.*
 
-**Verdict:** This is a wicked problem.
+**Verdict:** *This is a wicked problem.*
 
 ---
 
