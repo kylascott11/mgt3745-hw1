@@ -28,7 +28,7 @@
 
 **Framing B (stakeholder shift):** *Those around me (i.e. my professors, managers, and friends) are prevented from witnessing my full capabilities because I voice more of my shortcomings than my strengths.*
 
-**Framing C (goal shift):** *There is a gap between my performance and that of my peers in my operative environments.*
+**Framing C (goal shift):** *It is difficult to determine if I am doing enough to meet my expectations and the expectations of my environment.*
 
 ---
 
@@ -36,26 +36,26 @@
 
 **Chosen framing:** *Framing C*
 
-**Why:** *Framing C, in my opinion, has the most actionable solutions. Framing A focuses on an internal battle, which may have short-term solutions, but these will constantly need adaptation because satisfaction is a fleeting feeling. Framing B shifts the focus to how I communicate my abilities to those around me. The communication factor has actionable solutions but addressing the focus on shortcomings is more difficult to solve. Framing C, however, lays out a straightforward approach: improve performance to that of peers. This creates a measurable target that helps determine the effectiveness of a solution.* 
+**Why:** *Framing A focuses on an internal battle, which may have short-term solutions, but these will constantly need adaptation because satisfaction is a fleeting feeling. Framing B shifts the focus to how I communicate my abilities to those around me. The communication factor has actionable solutions but addressing the focus on shortcomings is more difficult to solve. Framing C, however, takes an internal feeling, unique to individuals, and directs it toward a more generalized question: What are the expectations, and am I meeting them? This creates a more actionable way to approach the problem.* 
 
-**What this framing makes invisible:** *Framing C largely ignores the emotional aspect of the problem. The underlying self-doubt and fraudulent feeling is no longer the focus; instead, the focus is improving my performance, thus overlooking the psychological factors.*
+**What this framing makes invisible:** *Framing C largely ignores the psychological factors of the problem. The underlying self-doubt and fraudulent feeling is no longer the focus; instead, the focus is on benchmarking my performance against my own expectations and the expectations of the operative environment.*
 
 ---
 
 ## 5. Oath Check  
 
-**The tool I already assumed:** *Studying Plan*
+**The tool I already assumed:** *Performance Benchmarking Tool*
 
-**What would have to be true for it to be justified:** *For a studying plan to be a valid tool, my underperformance would have to be objectively measurable and not my interpretation of my abilities. Additionally, this underperformance would have to be the result of a lack of knowledge or under-preparation, rather than other factors like lack of sleep. While I know that I do well with structure, another assumption is that adding a structured plan to my studies would actually be beneficial. If these conditions are true, then creating a structured study plan could improve my performance to the level of those around me.*
+**What would have to be true for it to be justified:** *For a comparison tool to be valid, there would need to be a reliable standard that performance could be compared against. This standard (expectations) would need to be clearly defined, measurable, adjustable, and specific to each environment. Additionally, the people being compared against this standard would need to be relevant to the specific environment. For example, an analyst at Google should not be compared against students in a MGT 3745 class because their environments and expectations are different. Lastly, the comparison would need to go beyond just ranking against others and provide meaningful information about performance versus expectations. If these conditions are true, then a comparison tool could help determine if I am meeting expectations.*
 
 ---
 
 ## 6. Adequacy Sketch  
 
-*For me, “Good enough for now” would mean performing at or above average compared to peers in the operating environment. In a school environment, for example, I would know I hit this point if my grades and valuable contributions in class were at or above the average of my peers, while requiring no disproportionate amount of preparation to achieve those results.*
+*For me, “good enough for now” would mean having enough reliable information to determine whether my performance is meeting both the expectations of my specific environment and the expectations I have set for myself. I would know I had reached this point if I could identify both sets of expectations, accurately assess my performance against them, and determine whether there is a meaningful gap that needs to be addressed.*
 
 ---
 
 ## AI Use Note
 
-*I used AI to see how defensible my "Solutions lack opportunity to learn by trial and error" bullet is because I felt like this statement applies to some solutions more than others. Additionally, I used AI when trying to brainstorm different stakeholders that could be affected by my imposter syndrome for Framing situation B.*
+*I used AI to see how defensible my "Solutions lack opportunity to learn by trial and error" bullet is because I felt like this statement applies to some solutions more than others. Additionally, I used AI when trying to brainstorm different stakeholders that could be affected by my imposter syndrome for Framing B.*
