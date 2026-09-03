@@ -46,7 +46,7 @@
 
 **The tool I already assumed:** *Performance Benchmarking Tool*
 
-**What would have to be true for it to be justified:** *For a comparison tool to be valid, there would need to be a reliable standard that performance could be compared against. This standard (expectations) would need to be clearly defined, measurable, adjustable, and specific to each environment. Additionally, the people being compared against this standard would need to be relevant to the specific environment. For example, an analyst at Google should not be compared against students in a MGT 3745 class because their environments and expectations are different. Lastly, the comparison would need to go beyond just ranking against others and provide meaningful information about performance versus expectations. If these conditions are true, then a comparison tool could help determine if I am meeting expectations.*
+**What would have to be true for it to be justified:** *For a performance benchmarking tool to be valid, there would need to be a reliable standard that performance could be compared against. This standard (expectations) would need to be clearly defined, measurable, adjustable, and specific to each environment. Additionally, the people being benchmarked to this standard would need to be relevant to the specific environment. For example, an analyst at Google should not be compared against students in a MGT 3745 class because their environments and expectations are different. Lastly, the comparison would need to go beyond just ranking against others and provide meaningful information about performance versus expectations. If these conditions are true, then a performance benchamarking tool could help determine if I am meeting expectations.*
 
 ---
 
